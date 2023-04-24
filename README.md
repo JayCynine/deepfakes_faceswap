@@ -1,5 +1,5 @@
 # deepfakes_faceswap
-This is the code from [deepfakes' faceswap project](https://www.reddit.com/user/deepfakes/).
+This is the code from [deepfakes' faceswap project][def].
 Hope we can improve it together, HAVE FUN!
 
 Message from deepfakes:
@@ -32,3 +32,6 @@ If there is any question, welcome to discuss here.
 
 Reuse existing models will train much faster than start from nothing.  
 If there are not enough training data, start with someone looks similar, then switch the data.
+
+
+[def]: https://www.reddit.com/user/deepfakes/
