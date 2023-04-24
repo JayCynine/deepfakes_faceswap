@@ -1,0 +1,14 @@
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+venv\Scripts\Activate
+
+# Install OpenCV 3
+pip install opencv-python==3.4.13.47
+
+# Install TensorFlow (1.15.5 is the latest version in 1.x series)
+pip install tensorflow==1.15.5
+
+# Install Keras 2
+pip install keras==2.4.3
